@@ -1,0 +1,9 @@
+.git/*
+.idea/*
+tmp_*
+__pycache__/*
+build/*
+dist/*
+released/*
+*.zip
+keylogger.txt
