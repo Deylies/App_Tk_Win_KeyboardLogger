@@ -4,8 +4,8 @@ tmp_*
 __pycache__/*
 build/*
 dist/*
-released/*
 *.zip
 *.txt
 *.spec
 *.lnk
+*.exe
