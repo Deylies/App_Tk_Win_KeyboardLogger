@@ -1,1 +1,0 @@
-start  "wumin" "klBackScr.exe"  

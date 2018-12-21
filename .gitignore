@@ -6,5 +6,6 @@ build/*
 dist/*
 released/*
 *.zip
-keylogger.txt
+*.txt
 *.spec
+*.lnk
