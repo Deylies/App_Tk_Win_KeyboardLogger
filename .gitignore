@@ -4,6 +4,8 @@ tmp_*
 __pycache__/*
 build/*
 dist/*
-released/*
 *.zip
-keylogger.txt
+*.txt
+*.spec
+*.lnk
+*.exe
